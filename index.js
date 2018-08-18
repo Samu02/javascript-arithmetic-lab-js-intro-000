@@ -22,3 +22,12 @@ function divide(a, b) {
 }
 // divide's argument
 divide(5, 5);
+
+
+// Capitolo 2
+// function inc(n)
+function inc(n) {
+  return n++;
+}
+// inc(n)'s argument
+inc(1);
