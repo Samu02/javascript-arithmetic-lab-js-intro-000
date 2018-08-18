@@ -35,7 +35,7 @@ inc(0);
 
 // function dec(n)
 function dec(n) {
-  return n--;
+  return --n;
 }
 // dec(n)'s argument
 dec(0);
