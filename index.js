@@ -25,9 +25,17 @@ divide(5, 5);
 
 
 // Capitolo 2
+
 // function inc(n)
 function inc(n) {
   return ++n;
 }
 // inc(n)'s argument
 inc(0);
+
+// function dec(n)
+function dec(n) {
+  return n--;
+}
+// dec(n)'s argument
+dec(0);
