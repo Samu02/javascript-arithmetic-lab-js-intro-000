@@ -40,7 +40,7 @@ function dec(n) {
 // dec(n)'s argument
 dec(0);
 
-// capitolo 3 
+// capitolo 3
 
 // function makeInt(n)
 function makeInt(n) {
