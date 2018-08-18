@@ -16,3 +16,9 @@ function multiply(a, b) {
 }
 // multiply's argument
 multiply(5, 5);
+// function divide 
+function divide(a, b) {
+  return a / b;
+}
+// divide's argument 
+divide(5, 5);
