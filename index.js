@@ -39,3 +39,12 @@ function dec(n) {
 }
 // dec(n)'s argument
 dec(0);
+
+// capitolo 3 
+
+// function makeInt(n)
+function makeInt(n) {
+  return parseInt(n);
+}
+// makeInt(n)'s argument
+makeInt(1);
