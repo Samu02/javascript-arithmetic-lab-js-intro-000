@@ -10,3 +10,9 @@ function subtract(a, b) {
 }
 // subtract's argument
 subtract(5, 5);
+// function multiply
+function multiply(a, b) {
+  return a * b;
+}
+// multiply's argument
+multiply(5, 5);
