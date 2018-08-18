@@ -30,4 +30,4 @@ function inc(n) {
   return n++;
 }
 // inc(n)'s argument
-inc(1);
+inc(0);
