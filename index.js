@@ -44,7 +44,7 @@ dec(0);
 
 // function makeInt(n)
 function makeInt(n) {
-  return parseInt(n);
+  return parseInt(n, 10);
 }
 // makeInt(n)'s argument
 makeInt(1);
