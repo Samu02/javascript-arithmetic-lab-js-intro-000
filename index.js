@@ -27,7 +27,7 @@ divide(5, 5);
 // Capitolo 2
 // function inc(n)
 function inc(n) {
-  return n += 1;
+  return n++;
 }
 // inc(n)'s argument
 inc(0);
